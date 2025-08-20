@@ -84,7 +84,7 @@ cd gitleaks
 make build
 ```
 
-### GitHub Action
+### GitHub Action-test
 
 Check out the official [Gitleaks GitHub Action](https://github.com/gitleaks/gitleaks-action)
 
